@@ -1,0 +1,11 @@
+# Ignorar la carpeta .vs
+.vs/
+
+# Ignorar la carpeta .vscode
+.vscode/
+
+# Ignorar la carpeta bin
+bin/
+
+# Ignorar la carpeta obj
+obj/
